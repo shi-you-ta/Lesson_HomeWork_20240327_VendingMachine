@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\vendingmachine_lessonhomework_20240325.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\vendingmachine_lessonhomework_20240325.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\vendingmachine_lessonhomework_20240325\\vendingmachine_lessonhomework_20240325\\vendingmachine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\vendingmachine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\bankbill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\bankbill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\imoney.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\imoney.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\vendingmachine_lessonhomework_20240325\\coin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{42AECFD8-C7BF-4B19-BB10-E2695B29EF9D}|VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj|solutionrelative:vendingmachine_lessonhomework_20240325\\coin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-23T23:00:01.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Coin.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\Coin.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Coin.vb",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\Coin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-24T00:37:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankBill.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\BankBill.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\BankBill.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\BankBill.vb",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\BankBill.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-24T00:15:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMoney.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\IMoney.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\IMoney.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\IMoney.vb",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\IMoney.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-24T00:00:09.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendingMachine.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\VendingMachine.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\VendingMachine.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\VendingMachine.vb",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\VendingMachine.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-23T23:56:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendingMachine_LessonHomework_20240325",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-03-23T22:59:21.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "RelativeDocumentMoniker": "VendingMachine_LessonHomework_20240325\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\VendingMachine_LessonHomework_20240325\\VendingMachine_LessonHomework_20240325\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "VendingMachine_LessonHomework_20240325\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-23T22:56:28.104Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
